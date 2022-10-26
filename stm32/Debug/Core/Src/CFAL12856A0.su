@@ -1,0 +1,10 @@
+../Core/Src/CFAL12856A0.c:26:6:oled_whisperer	24	static
+../Core/Src/CFAL12856A0.c:45:6:oled_init	16	static
+../Core/Src/CFAL12856A0.c:54:6:oled_set_column	24	static
+../Core/Src/CFAL12856A0.c:64:6:oled_set_page	24	static
+../Core/Src/CFAL12856A0.c:74:6:oled_load_buffer	24	static
+../Core/Src/CFAL12856A0.c:88:6:oled_send_buffer	24	static
+../Core/Src/CFAL12856A0.c:111:6:oled_blank_screen	24	static
+../Core/Src/CFAL12856A0.c:127:6:oled_send_char	24	static
+../Core/Src/CFAL12856A0.c:139:6:oled_send_string	24	static
+../Core/Src/CFAL12856A0.c:153:6:oled_font_test	24	static
